@@ -1,5 +1,5 @@
 {
-  "name": "beruswapuikit",
+  "name": "pancake-toolkit",
   "version": "1.0.0",
   "description": "Pancake frontend packages",
   "private": true,
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeruCoin/BeruUiKit"
+    "url": "git+https://github.com/BeruCoin/BeruUiKit.git"
   },
   "license": "ISC",
   "bugs": {
