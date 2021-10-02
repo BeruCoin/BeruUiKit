@@ -8,13 +8,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeruCoin/BeruUiKit.git"
+    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
   },
-  "homepage": "https://github.com/BeruCoin/BeruUiKit#readme",
+  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
